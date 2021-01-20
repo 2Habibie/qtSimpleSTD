@@ -13,3 +13,13 @@ SimpleSTD::~SimpleSTD()
     delete ui;
 }
 
+
+void SimpleSTD::on_calcButton_clicked()
+{
+
+}
+
+void SimpleSTD::on_pushButton_2_clicked()
+{
+
+}

@@ -15,6 +15,11 @@ public:
     SimpleSTD(QWidget *parent = nullptr);
     ~SimpleSTD();
 
+private slots:
+    void on_calcButton_clicked();
+
+    void on_pushButton_2_clicked();
+
 private:
     Ui::SimpleSTD *ui;
 };
