@@ -129,6 +129,15 @@
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
+ <tabstops>
+  <tabstop>lineEditNumber1</tabstop>
+  <tabstop>lineEditNumber2</tabstop>
+  <tabstop>calcButton</tabstop>
+  <tabstop>pushButton_2</tabstop>
+  <tabstop>lineEditMean</tabstop>
+  <tabstop>lineEditVariance</tabstop>
+  <tabstop>lineEditStandardDeviation</tabstop>
+ </tabstops>
  <resources/>
  <connections/>
 </ui>

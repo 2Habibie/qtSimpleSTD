@@ -2,6 +2,8 @@
 #define SIMPLESTD_H
 
 #include <QMainWindow>
+#include <QDoubleValidator>
+#include<cmath>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class SimpleSTD; }
@@ -22,5 +24,6 @@ private slots:
 
 private:
     Ui::SimpleSTD *ui;
+    double number1, number2;
 };
 #endif // SIMPLESTD_H
